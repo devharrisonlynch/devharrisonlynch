@@ -69,26 +69,6 @@ derivatives layer.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devharrisonlynch&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=14F195&icon_color=F59E0B&text_color=e8e8ee&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devharrisonlynch&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=14F195&text_color=e8e8ee&langs_count=8" alt="top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devharrisonlynch&hide_border=true&background=0A0A0B&stroke=1E1E25&ring=14F195&fire=F59E0B&currStreakLabel=14F195&sideLabels=e8e8ee&dates=7A7A88&currStreakNum=e8e8ee&sideNums=e8e8ee&excludeDaysLabel=7A7A88" alt="streak" />
-
-</div>
-
-### 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lynchharrison)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devharrisonlynch)
-
-</div>
-
 ---
 
 <div align="center">
