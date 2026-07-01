@@ -20,7 +20,7 @@
 ```rust
 let harrison = Engineer {
     focus:    "on-chain derivatives & DeFi risk systems",
-    building: "Percolator — permissionless perps for graduated Pump.fun coins",
+    building: "Accelerated — permissionless perps for graduated Pump.fun coins",
     stack:    ["Rust", "Solidity", "TypeScript", "Anchor", "Foundry"],
     chains:   "chain-agnostic — Solana today, EVM when it fits",
     obsessed_with: "margin engines, oracle safety, keeping the vault solvent",
@@ -40,7 +40,7 @@ derivatives layer.
 
 ### 🔥 Currently building
 
-> **[Percolator](https://github.com/devharrisonlynch/percolator)** — a permissionless perpetuals
+> **[Accelerated](https://github.com/devharrisonlynch/accelerated)** — a permissionless perpetuals
 > protocol that makes *every* graduated Pump.fun coin leverage-tradable up to 5×, priced by a
 > manipulation-resistant oracle and backed by a single shared HLP vault. Anchor program + typed SDK +
 > risk engine + a Next.js trading terminal.
